@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Categories Category="Музика">
+    <Extentions>.wav,.mp3,.aac</Extentions>
+    <Path>C:\Users\angpy\Downloads\Музика</Path>
+  </Categories>
+  <Categories Category="Відео">
+    <Extentions>.mp4,.avi,.mkv</Extentions>
+    <Path>C:\Users\angpy\Downloads\Відео</Path>
+  </Categories>
+  <Categories Category="Програми">
+    <Extentions>.exe,.jar,.js</Extentions>
+    <Path>ff</Path>
+  </Categories>
+  <Categories Category="Картинки">
+    <Extentions>.jpg,.bmp,.png,.jpeg</Extentions>
+    <Path>C:\Users\angpy\Downloads\Зображення</Path>
+  </Categories>
+  <Input>C:\Users\angpy\Downloads</Input>
+  <Logging>false</Logging>
+</Setts>

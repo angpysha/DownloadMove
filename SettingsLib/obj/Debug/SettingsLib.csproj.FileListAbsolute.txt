@@ -1,0 +1,9 @@
+D:\222\DownloadsMoverPlus\SettingsLib\bin\Debug\SettingsLib.dll
+D:\222\DownloadsMoverPlus\SettingsLib\bin\Debug\SettingsLib.pdb
+D:\222\DownloadsMoverPlus\SettingsLib\obj\Debug\SettingsLib.dll
+D:\222\DownloadsMoverPlus\SettingsLib\obj\Debug\SettingsLib.pdb
+D:\222\DownloadsMoverPlus\SettingsLib\obj\Debug\SettingsLib.csprojResolveAssemblyReference.cache
+D:\222\DownloadsMoverPlus\SettingsLib\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\222\DownloadsMoverPlus\SettingsLib\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\222\DownloadsMoverPlus\SettingsLib\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\222\DownloadsMoverPlus\SettingsLib\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml

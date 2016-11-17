@@ -1,0 +1,13 @@
+D:\222\DownloadsMoverPlus\TestApp\bin\Debug\TestApp.exe.config
+D:\222\DownloadsMoverPlus\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\222\DownloadsMoverPlus\TestApp\obj\Debug\TestApp.Form1.resources
+D:\222\DownloadsMoverPlus\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\222\DownloadsMoverPlus\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+D:\222\DownloadsMoverPlus\TestApp\bin\Debug\TestApp.exe
+D:\222\DownloadsMoverPlus\TestApp\bin\Debug\TestApp.pdb
+D:\222\DownloadsMoverPlus\TestApp\bin\Debug\MoverLib.dll
+D:\222\DownloadsMoverPlus\TestApp\bin\Debug\SettingsLib.dll
+D:\222\DownloadsMoverPlus\TestApp\bin\Debug\MoverLib.pdb
+D:\222\DownloadsMoverPlus\TestApp\bin\Debug\SettingsLib.pdb
+D:\222\DownloadsMoverPlus\TestApp\obj\Debug\TestApp.exe
+D:\222\DownloadsMoverPlus\TestApp\obj\Debug\TestApp.pdb

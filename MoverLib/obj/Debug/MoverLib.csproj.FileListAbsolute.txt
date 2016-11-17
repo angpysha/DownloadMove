@@ -1,0 +1,7 @@
+D:\222\DownloadsMoverPlus\MoverLib\bin\Debug\MoverLib.dll
+D:\222\DownloadsMoverPlus\MoverLib\bin\Debug\MoverLib.pdb
+D:\222\DownloadsMoverPlus\MoverLib\bin\Debug\SettingsLib.dll
+D:\222\DownloadsMoverPlus\MoverLib\bin\Debug\SettingsLib.pdb
+D:\222\DownloadsMoverPlus\MoverLib\obj\Debug\MoverLib.csprojResolveAssemblyReference.cache
+D:\222\DownloadsMoverPlus\MoverLib\obj\Debug\MoverLib.dll
+D:\222\DownloadsMoverPlus\MoverLib\obj\Debug\MoverLib.pdb
